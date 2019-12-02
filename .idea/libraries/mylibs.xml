@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="mylibs">
+    <CLASSES>
+      <root url="jar://D:/BaiduNetdiskDownload/jar/mysql-connector-java-5.1.40-bin.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/commons-logging-1.1.3.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/mybatis-spring-1.2.1.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/org.springframework.test-3.1.0.M2.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-aop-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-aspects-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-beans-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-context-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-core-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-expression-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-jdbc-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-tx-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-web-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/spring/spring-webmvc-4.0.0.RELEASE.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/commons-dbcp2-2.2.0-bin/commons-dbcp2-2.2.0/commons-dbcp2-2.2.0.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/commons-pool2-2.5.0-bin/commons-pool2-2.5.0/commons-pool2-2.5.0.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/C3P0连接池jar包（完整版）/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/C3P0连接池jar包（完整版）/mchange-commons-java-0.2.12.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/mina/apache-mina-2.0.16-bin/apache-mina-2.0.16/dist/mina-core-2.0.16.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/mina/apache-mina-2.0.16-bin/apache-mina-2.0.16/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/logback-1.2.3/logback-access-1.2.3.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/logback-1.2.3/logback-classic-1.2.3.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/logback-1.2.3/logback-core-1.2.3.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/json/JSONjar/commons-lang.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/json/JSONjar/commons-collections.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/json/JSONjar/json-lib-2.2.2-jdk15.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/json/JSONjar/ezmorph.jar!/" />
+      <root url="jar://D:/BaiduNetdiskDownload/jar/json/JSONjar/commons-beanutils-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/BaiduNetdiskDownload/C3P0连接池jar包（完整版）/c3p0-0.9.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
